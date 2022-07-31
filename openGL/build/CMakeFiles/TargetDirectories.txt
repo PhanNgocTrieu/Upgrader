@@ -1,6 +1,0 @@
-/home/trieupn/Documents/_git/Upgrader/openGL/build/CMakeFiles/libOpenGL.dir
-/home/trieupn/Documents/_git/Upgrader/openGL/build/CMakeFiles/edit_cache.dir
-/home/trieupn/Documents/_git/Upgrader/openGL/build/CMakeFiles/rebuild_cache.dir
-/home/trieupn/Documents/_git/Upgrader/openGL/build/examples/CMakeFiles/example.dir
-/home/trieupn/Documents/_git/Upgrader/openGL/build/examples/CMakeFiles/edit_cache.dir
-/home/trieupn/Documents/_git/Upgrader/openGL/build/examples/CMakeFiles/rebuild_cache.dir
