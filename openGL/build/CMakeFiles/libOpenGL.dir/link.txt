@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibOpenGL.a CMakeFiles/libOpenGL.dir/src/Application.cpp.o
+/usr/bin/ranlib liblibOpenGL.a

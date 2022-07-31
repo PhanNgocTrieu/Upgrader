@@ -31,4 +31,14 @@
         "system_error": "cpp",
         "typeinfo": "cpp"
     }
+
+    // "powermode.shake.enabled": false,
+    // "powermode.explosions.backgroundMode": "image",
+    // "powermode.enabled": true,
+    // "powermode.explosions.customExplosions": [
+    //     "https://media3.giphy.com/media/U8J9sZoDy4V68/200w.webp?cid=ecf05e47mrtij8p5g76mp0welyuavumfj7lvg34er2wtjbba&rid=200w.webp&ct=s"
+    // ],
+    // "powermode.explosions.duration": 1200,
+    
+
 }
